@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Mohamed Abuthaeer K  </h3>
-<h3>Register Number: 212224020030</h3>
+<h3>Name: JAGADEESH SUNI  </h3>
+<h3>Register Number: 212224020017</h3>
 
 
 <h3>AIM:</h3>
