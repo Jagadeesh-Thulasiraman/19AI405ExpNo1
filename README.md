@@ -48,7 +48,7 @@ class HospitalEnvironment:
         self.rooms = {f"Room{i+1}": random.randint(97, 103) for i in range(rooms)}
         self.agent_location = "Room1"
         self.performance = 0
-
+```
     def is_patient_sick(self):
         return self.rooms[self.agent_location] >= 100  # fever if temp ≥ 100
 
@@ -66,7 +66,7 @@ class HospitalEnvironment:
 
     def status(self):
         return f"Location: {self.agent_location}, Rooms: {self.rooms}, Score: {self.performance}"
-
+```
 
 # Step 4: Agent
 class DoctorAgent:
